@@ -50,14 +50,10 @@ Les buts du groupe d'utilisateurs QGIS Suisse sont les suivants:
 ## Demande d'admission 
 
 Si vous êtes intéressés à rejoindre le Groupe d'utilisateurs QGIS Suisse comme
-nouveau membre, veuillez télécharger le
-[formulaire d'inscription]({% link assets/pdf/QGIS groupe d utilisateurs Suisse declaration d adhesion.pdf %}){: .pdf-link :} et remplir la
-catégorie de membre souhaitée ainsi que les informations de contact. Veuillez
-également télécharger et lire
-[les statuts du Groupe d'Utilisateurs QGIS Suisse]({% link assets/pdf/StatutsdugroupedutilisateursQGISSuisse.pdf %}){: .pdf-link :}
-vu que vous devez les approuver lors de l'inscription. Envoyez s.v.p. le
-formulaire d'inscription par fax, e-mail ou courrier à l'adresse indiquée sur le
-formulaire.
+nouveau membre, merci de télécharger le
+[formulaire d'inscription]({% link assets/pdf/QGIS groupe d utilisateurs Suisse declaration d adhesion.pdf %}){: .pdf-link :} et de le remplir avec vos coordonnées. Veuillez également télécharger et lire
+[les statuts du Groupe d'Utilisateurs QGIS Suisse]({% link assets/pdf/StatutsdugroupedutilisateursQGISSuisse.pdf %}){: .pdf-link :} comme vous devez les approuver lors de votre inscription. Merci d'envoyer le
+formulaire signé par e-mail ou courrier à l'adresse indiquée dans le document.
 
 Les quatre catégories de membre suivant sont disponibles (cotisation annuelle):
 
